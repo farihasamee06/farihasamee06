@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farihasamee06
 - 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python, SQL and Tableau.
 - 💞️ I’m looking to collaborate on interesting projects.
 
 
